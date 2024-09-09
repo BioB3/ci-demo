@@ -1,5 +1,7 @@
 Continuous Integration Demo
 ===========================
+[![Run unit tests](https://github.com/BioB3/ci-demo/actions/workflows/python-unittest.yml/badge.svg)](https://github.com/BioB3/ci-demo/actions/workflows/python-unittest.yml)
+[![Run flake8](https://github.com/BioB3/ci-demo/actions/workflows/run-flake8.yml/badge.svg)](https://github.com/BioB3/ci-demo/actions/workflows/run-flake8.yml)
 
 This project demonstrates use of Github Actions to build and test a Python project.  
 
